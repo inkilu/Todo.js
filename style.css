@@ -1,6 +1,7 @@
 body{
     background: #352f5b;
   }
+
   .container{
     max-width: 400px;
   }
@@ -20,7 +21,10 @@ body{
   .filtered{
     display: none !important;
   }
-
+a,a:hover{
+  color:white;
+  text-decoration: none;
+}
   .sub-btn{
     display: flex;
     justify-content: center;
